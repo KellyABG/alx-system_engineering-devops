@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'N=ZA=M' 'N=ZN=Mn=MA=m'
+ge 'A=MN=Z' 'A=MA=Za=ZN=z'
